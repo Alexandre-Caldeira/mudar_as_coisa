@@ -1,0 +1,32 @@
+- Gostaria de ter avaliações mais frequentes?
+SIM (67%) [0-10]=> "8 concorda" com:
+	- 4 provas ao invés de 3 em algumas disciplinas, 
+	- implementação de trabalhos práticos ou de simulação nas disciplinas teóricas.
+	-  atividades avaliativas (a nível de prova) a cada duas aulas teóricas, 
+		para serem entregues na semana seguinte.
+
+- Voce gostaria de projetos praticos:
+*Projetos mais práticos desde o começo do curso, como por exemplo a construção de 
+circuito funcionais que utilizem e auxiliem na visualização da teoria em situações 
+reais e cotidianas.
+~>90% dos alunos concorda (nota 10 = 62%)
+
+- Você gostaria de ter mais exemplos, a nível de prova, resolvidos pelos professores?
+SIM (94.6%)
+
+- Até o quarto período do curso, você sente que teve um direcionamento satisfatório 
+para as possíveis carreiras na Eng. Elétrica?
+?
+
+Feedbacks bons:
+- Em geral, os experimentos práticos em laboratório facilitam a sua compreensão dos 
+conteúdos teóricos? SIM (77%)
+
+- A quantidade de momentos síncronos te satisfaz? SIM (69.6%)
+
+- Nas aulas destinadas a dúvidas, elas são sanadas? SIM (78.3%)
+
+
+- Grafico: quem quer mais avaliações? (olhar por periodo e por respostas a perguntas
+similares)
+- 
